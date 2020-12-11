@@ -1,0 +1,1 @@
+# Algoritmos-de-IA_Projeto-Integrador_CNN
